@@ -1,6 +1,7 @@
 # 🖨️ ft_printf - Custom Printf Implementation
 
 [![42 School](https://img.shields.io/badge/42-Project-blue)](https://www.42.fr/)
+![Language](https://img.shields.io/badge/Language-C-blue)
 
 ## 📋 Table of Contents
 - [Overview](#overview)
